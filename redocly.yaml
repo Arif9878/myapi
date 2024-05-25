@@ -1,0 +1,5 @@
+theme:
+  colors:
+    primary: "#5b21b6"
+  typography:
+    fontFamily: "Arial, sans-serif"

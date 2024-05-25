@@ -1,0 +1,10 @@
+version: v2
+modules:
+  - path: proto
+    # name is the module name.
+    name: buf.build/Arif9878/myapi
+deps:
+  - buf.build/googleapis/googleapis
+lint:
+  use:
+    - DEFAULT
