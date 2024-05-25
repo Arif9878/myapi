@@ -15,7 +15,7 @@ myapi/
 │   │       └── myapi.proto
 ├── buf.lock
 ├── buf.yaml
-├── buf.work.yaml
+├── buf.gen.yaml
 ├── redocly.yaml
 └── README.md
 ```
