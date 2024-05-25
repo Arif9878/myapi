@@ -12,7 +12,7 @@ myapi/
 ├── proto/
 │   ├── myapi/
 |   |   └──v1/
-│   │       └── my_service.proto
+│   │       └── myapi.proto
 ├── buf.lock
 ├── buf.yaml
 ├── buf.work.yaml
